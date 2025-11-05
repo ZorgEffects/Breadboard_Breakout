@@ -11,6 +11,8 @@ https://mou.sr/4qExcgZ
 - 6x screw connectors to fix pots on the boards and wire them to the breadboard
 - Filtered Vref = Vcc/2
 - Bananas connexion for an external power supply
+- Test points for signals (T1 and T2, near the bananas)
+- Test points for I/Os (IN/OUT/AUX, right of the jacks)
 
 # Short BOM:
 Relay :  
