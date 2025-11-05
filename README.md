@@ -1,2 +1,2 @@
 # Breadboard_Breakout
-PCB of breakout board for breadboards
+This is a PCB of a breakout board for breadboards.
